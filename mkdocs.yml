@@ -1,1 +1,10 @@
+site_name: Soffiati_Lorenzo
 
+nav:
+
+  - 'MD': 'index.md'
+  - 'Test': 'test.md'
+
+
+theme:
+  name : readthedocs
