@@ -2,8 +2,7 @@ site_name: Soffiati_Lorenzo
 
 nav:
 
-  - 'MD': 'index.md'
-  - 'Test': 'test.md'
+  - 'Test': 'test.txt'
 
 
 theme:
