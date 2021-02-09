@@ -2,7 +2,7 @@ site_name: Soffiati_Lorenzo
 
 nav:
 
-  - 'Test': 'test.txt'
+    - 'Test': 'test.txt'
 
 theme:
-  name : readthedocs
+      name : readthedocs
